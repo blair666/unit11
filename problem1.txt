@@ -1,0 +1,3 @@
+Node.js is a runtime system for creating (mostly) server-side applications. It's best known as a popular means for JavaScript coders to build real-time Web APIs. But Node.js is not a JavaScript framework; indeed, several authors have written excellent frameworks specifically for Node.js, including Express.js, Restify.js, and Hapi.js.
+
+JavaScript is a quirky, object-oriented, C-like language. It's the only choice for developing applications in the browser, with a new framework introduced every week to woo developers. And with Node.js, JavaScript has spilled over to the server. Competing implementation teams have driven JavaScript interpreters forward, so that Google's V8 engine is respectably fast -- fast enough to reside at the core of Node.js.
